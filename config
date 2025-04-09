@@ -1,0 +1,5 @@
+#!/bin/bash
+
+zfs_root="zfs"
+zfs_lxc_root="zfs/lxc"
+
